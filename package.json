@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-head-attr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "markdown-it plugin for head attr,such as id or class",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     "markdown-it-plugin",
     "heading"
   ],
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/Lijiang0703/markdown-it-head-attr#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lijiang0703/markdown-it-head-attr.git"
+  },
   "dependencies": {},
   "devDependencies": {}
 }
