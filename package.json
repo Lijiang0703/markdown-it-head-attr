@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-head-attr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "markdown-it plugin for head attr,such as id or class",
   "main": "index.js",
   "scripts": {
